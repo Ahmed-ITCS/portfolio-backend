@@ -1,0 +1,11 @@
+{
+  "name": "contact-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "nodemailer": "^7.0.3",
+    "vercel": "^43.0.0"
+  }
+}
